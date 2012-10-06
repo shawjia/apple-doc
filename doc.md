@@ -1,8 +1,20 @@
 ## iOS
 
+### [iOS Technology Overview](https://developer.apple.com/library/ios/#documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html)
+
+https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/iPhoneOSTechOverview.pdf
+
 ### [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html)
 
 https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/MobileHIG/MobileHIG.pdf
+
+### [Tools Workflow Guide for iOS](https://developer.apple.com/library/ios/#documentation/Xcode/Conceptual/ios_development_workflow/00-About_the_iOS_Application_Development_Workflow/introduction.html)
+
+https://developer.apple.com/library/ios/documentation/Xcode/Conceptual/ios_development_workflow/iphone_development.pdf
+
+### [Developing for the App Store](https://developer.apple.com/library/ios/#documentation/General/Conceptual/ApplicationDevelopmentOverview/Introduction/Introduction.html)
+
+https://developer.apple.com/library/ios/documentation/General/Conceptual/ApplicationDevelopmentOverview/ApplicationDevelopmentOverview.pdf
 
 ### [OS App Programming Guide](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
 
@@ -24,6 +36,13 @@ https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/
 
 https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/ViewControllerPGforiOS.pdf
 
+### [Your Second iOS App](https://developer.apple.com/library/ios/#documentation/iPhone/Conceptual/SecondiOSAppTutorial/Introduction/Introduction.html)
+
+https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/SecondiOSAppTutorial/SecondiOSAppTutorial.pdf
+
+### [iTunes Connect Developer Guide](https://developer.apple.com/library/ios/#documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/1_Introduction/Introduction.html)
+
+https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/iTunesConnect_Guide.pdf
 
 ## Mac
 
