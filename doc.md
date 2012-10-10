@@ -69,6 +69,13 @@ https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/
 
 https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/ObjCRuntimeGuide.pdf
 
+### [Blocks Programming Topics](https://developer.apple.com/library/ios/#documentation/Cocoa/Conceptual/Blocks/Articles/00_Introduction.html)
+
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Blocks/Blocks.pdf
+
+### [Concurrency Programming Guide](https://developer.apple.com/library/ios/#documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html)
+
+https://developer.apple.com/library/ios/documentation/General/Conceptual/ConcurrencyProgrammingGuide/ConcurrencyProgrammingGuide.pdf
 
 
 ## Safari
@@ -88,3 +95,11 @@ https://developer.apple.com/library/safari/documentation/AppleApplications/Refer
 ### [Safari Image Delivery Best Practices](https://developer.apple.com/library/safari/#documentation/NetworkingInternet/Conceptual/SafariImageDeliveryBestPractices/Introduction/Introduction.html)
 
 https://developer.apple.com/library/safari/documentation/NetworkingInternet/Conceptual/SafariImageDeliveryBestPractices/SafariImageDeliveryBestPractices.pdf
+
+
+## Misc
+
+### [Automator Programming Guide](https://developer.apple.com/library/mac/#documentation/AppleApplications/Conceptual/AutomatorConcepts/Automator.html)
+
+https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/AutomatorConcepts/AutomatorConcepts.pdf
+
