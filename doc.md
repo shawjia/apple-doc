@@ -103,3 +103,15 @@ https://developer.apple.com/library/safari/documentation/NetworkingInternet/Conc
 
 https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/AutomatorConcepts/AutomatorConcepts.pdf
 
+### [Apple URL Scheme Reference](http://developer.apple.com/library/ios/#featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html)
+
+http://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/iPhoneURLScheme_Reference.pdf
+
+### [Dashcode User Guide](https://developer.apple.com/library/mac/#documentation/AppleApplications/Conceptual/Dashcode_UserGuide/Contents/Resources/en.lproj/Introduction/Introduction.html)
+
+https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Dashcode_UserGuide/Contents/Resources/en.lproj/Dashcode_UserGuide.pdf
+
+### [Dashboard Programming Topics](https://developer.apple.com/library/mac/#documentation/AppleApplications/Conceptual/Dashboard_ProgTopics/Introduction/Introduction.html)
+
+https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Dashboard_ProgTopics/Dashboard_ProgTopics.pdf
+
