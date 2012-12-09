@@ -36,13 +36,22 @@ https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/
 
 https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/ViewControllerPGforiOS.pdf
 
+### [iTunes Connect Developer Guide](https://developer.apple.com/library/ios/#documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/1_Introduction/Introduction.html)
+
+https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/iTunesConnect_Guide.pdf
+
+### [Start Developing iOS Apps Today](http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOS/chapters/Introduction.html)
+
+### [马上着手开发 iOS 应用程序：介绍](http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOSCh/chapters/Introduction.html)
+
+### [Your First iOS App](http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOS/chapters/RM_YourFirstApp_iOS/Articles/00_Introduction.html)
+
+### [您的首个 iOS 应用程序：关于创建您的首个 iOS 应用程序](http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOSCh/chapters/RM_YourFirstApp_iOS/Articles/00_Introduction.html)
+
 ### [Your Second iOS App](https://developer.apple.com/library/ios/#documentation/iPhone/Conceptual/SecondiOSAppTutorial/Introduction/Introduction.html)
 
 https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/SecondiOSAppTutorial/SecondiOSAppTutorial.pdf
 
-### [iTunes Connect Developer Guide](https://developer.apple.com/library/ios/#documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/1_Introduction/Introduction.html)
-
-https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/iTunesConnect_Guide.pdf
 
 ## Mac
 
